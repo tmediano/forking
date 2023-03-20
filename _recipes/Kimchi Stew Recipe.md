@@ -30,6 +30,8 @@ If you are interested in the traditional method, please follow Maagnchi's recipe
 
 
 Instruction for Kimchi Jjigae
+
+
 Please follow the instructions Maangchi's recipe here: 
 https://www.maangchi.com/recipe/kimchi-jjigae
 
