@@ -4,7 +4,7 @@ layout: recipe
 title:  "Pistachio Coffee Cake"
 image: 
 imagecredit: 
-tags: cakes, baking, breakfast cake
+tags: ["cakes", "baking", "breakfast cake"]
 
 ingredients:
 - 3/4 c sugar
