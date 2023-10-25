@@ -2,9 +2,9 @@
 
 layout: recipe
 title:  "Savory Buckwheat Noodles"
-image: buckwheatnoodles.jpg
+image: buckwheatnoodles.JPG
 imagecredit: 
-tags: noodles, Chinese, spicy
+tags: ["noodles", "Chinese", "spicy"]
 
 ingredients:
 - 1 round wrapped portion of buckwheat noodles
