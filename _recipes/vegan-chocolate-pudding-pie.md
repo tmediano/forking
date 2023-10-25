@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Vegan Chocolate Pudding Pie"
-image: vegan-chocolate-pudding-pie.jpg
+image: vegan-chocolate-pudding-pie.JPG
 tags: ["desserts", "vegan"]
 
 directions:
