@@ -1,7 +1,8 @@
+---
 layout: recipe
 title: "Vegan Chocolate Pudding Pie"
 image: vegan-chocolate-pudding-pie.jpg
-tags: desserts, vegan
+tags: ["desserts", "vegan"]
 
 directions:
 - Bake pie crust according to whatever pie crust you’re using (or if you have an oreo crust, just unwrap that bad boy.)
