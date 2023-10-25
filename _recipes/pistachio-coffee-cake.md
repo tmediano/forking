@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Pistachio Coffee Cake"
-image: 
+image: coffeecake.jpg
 imagecredit: 
 tags: ["cakes", "baking", "breakfast cake"]
 
