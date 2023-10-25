@@ -3,7 +3,7 @@
 layout: recipe
 title: "Seven Can Soup"
 image: seven-can-soup.jpg
-imagecredit: @TasteTester 
+imagecredit: "@TasteTester" 
 tags: soups
 
 ingredients:
