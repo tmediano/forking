@@ -1,8 +1,10 @@
+---
+
 layout:  recipe
-title: "Roasted Greek Lemon Potatoes"
+title:  "Roasted Greek Lemon Potatoes"
 image: cooked-food-on-white-ceramic-bowl-by-shameel-mukkath.jpeg
 imagecredit: Shameel Mukkath
-tags: ["side dish", "vegetable", "potato"]
+tags: side dish, potatoes, greek
 
 ingredients:
 - 2 lbs potatoes, cut into wedges
