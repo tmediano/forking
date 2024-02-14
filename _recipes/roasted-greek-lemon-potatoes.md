@@ -1,4 +1,4 @@
-layout: recipe
+layout:  recipe
 title: "Roasted Greek Lemon Potatoes"
 image: cooked-food-on-white-ceramic-bowl-by-shameel-mukkath.jpeg
 imagecredit: Shameel Mukkath
