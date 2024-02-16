@@ -30,6 +30,6 @@ Transfer dough to a clean work surface. Divide dough into 2 equal pieces, then p
 Step 4
 Bake in the preheated oven until risen and browned, about 15 minutes. Split wedges and serve warm.
 
------
+---
 
-Based on https://www.allrecipes.com/recipe/6906/scottish-oat-scones/
+From https://www.allrecipes.com/recipe/6906/scottish-oat-scones/
