@@ -12,15 +12,15 @@ directions:
 - Bake in the preheated oven until no longer pink in the center, about 1 hour.
 
 ingredients:
--1 ½ pounds ground beef
--1 egg
--1 onion, chopped
--1 cup milk
--1 cup dried bread crumbs
--salt and pepper to taste
--⅓ cup ketchup
--2 tablespoons brown sugar
--2 tablespoons prepared mustard
+- 1 ½ pounds ground beef
+- 1 egg
+- 1 onion, chopped
+- 1 cup milk
+- 1 cup dried bread crumbs
+- salt and pepper to taste
+- ⅓ cup ketchup
+- 2 tablespoons brown sugar
+- 2 tablespoons prepared mustard
 ---
 Dinner is served!
 Taken from https://www.allrecipes.com/recipe/16354/easy-meatloaf/
